@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#col3 img {
+
+    width: 30%;
+    margin: 1.65%;
+    float: left;
+}
+
+#col4 img {
+    width: 21.6%;
+    margin: 1.65%;
+    float: left;
+}
+
+p {
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;/*大寫*/
+    font-weight: 800;
+    margin: 1.65%;
+    border-bottom: 2px solid #f1f1f1;
+    padding-bottom: 15px;
+    
+}
